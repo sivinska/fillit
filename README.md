@@ -9,12 +9,12 @@ Two-person group project with [gkuraite](https://github.com/gkuraite)
 
 
 **Objectives**
-*Basic algorithms 
-*Inputs/Outputs 
+* Basic algorithms 
+* Inputs/Outputs 
 
 
 **Skills**
-*Algorithms & AI 
-*Rigor 
-*Unix 
-*Group & interpersonal 
+* Algorithms & AI 
+* Rigor 
+* Unix 
+* Group & interpersonal 
