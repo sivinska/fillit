@@ -8,12 +8,12 @@ To fit tetriminos (Tetris pieces) into the smallest possible square.
 Two-person group project with [gkuraite](https://github.com/gkuraite)
 
 
-> Objectives
+**Objectives**
 *Basic algorithms 
 *Inputs/Outputs 
 
 
-> Skills
+**Skills**
 *Algorithms & AI 
 *Rigor 
 *Unix 
